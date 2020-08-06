@@ -10,6 +10,6 @@
     Há também disponível uma função própria para uma melhor apresentação dos dados. </p>
 
 <div class="image"> 
-<img src="imagens/readme_img.png" align="right" width="300"/>
+<img src="imagens/readme_img.png" align="left" width="300"/>
 </div> 
 </div>
