@@ -1,4 +1,4 @@
-<div id="container"> 
+<div style="display: flex; width: 100%;"  id="container"> 
     <img src="imagens/readme_img.png" align="right" width="300"/>
     <p>
     # GDP_Data_Science
