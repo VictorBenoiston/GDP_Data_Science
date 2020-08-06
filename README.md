@@ -10,6 +10,7 @@
     Há também disponível uma função própria para uma melhor apresentação dos dados. </p>
 
 <div class="image"> 
+<h3>Output</h3>
 <img src="imagens/readme_img.png" align="left" width="300"/>
 </div> 
 </div>
