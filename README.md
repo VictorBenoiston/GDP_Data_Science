@@ -1,4 +1,4 @@
-<img src="readme_img.png" align="right" width="300">
+<img src="imagens/readme_img.png" align="right" width="300">
 # GDP_Data_Science
 English:
  A simple script that allows you to add new countries and their respective gdp and population, and give you a some options about showing them, and with some data science about them envolved. The script creates, or open a text file.
