@@ -11,6 +11,6 @@
 
 <div class="image"> 
 <h3>Output</h3>
-<img src="imagens/readme_img.png" align="left" width="300"/>
+<img src="imagens/readme_img.png" align="left" width="320"/>
 </div> 
 </div>
