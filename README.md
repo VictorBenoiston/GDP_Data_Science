@@ -2,7 +2,7 @@
     # GDP_Data_Science
     <p>
     <h3>English:</h3>
-    A simple script that allows you to add new countries and their respective gdp and population, and give you some options about showing them, and with some data science about them envolved. The script creates, or open a text file.
+    A simple script that allows you to add new countries and their respective gdp and population, give you some options about showing them and with some data science about them envolved. The script creates, or open a text file.
     There's also a built-in function for a better showing of the data. </p>
     <p>
     <h3>Português:</h3>
